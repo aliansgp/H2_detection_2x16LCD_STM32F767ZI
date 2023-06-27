@@ -1,0 +1,12 @@
+../Core/Src/main.c:76:7:MQResistanceCalculation	16	static
+../Core/Src/main.c:81:7:MQCalibration	16	static
+../Core/Src/main.c:103:7:MQRead	16	static
+../Core/Src/main.c:120:5:MQGet	24	static
+../Core/Src/main.c:129:5:MQGetGasPercentage	16	static
+../Core/Src/main.c:142:6:ms_delay	16	static
+../Core/Src/main.c:149:6:s_delay	24	static
+../Core/Src/main.c:155:6:min_delay	24	static
+../Core/Src/main.c:168:5:main	24	static
+../Core/Src/main.c:233:6:SystemClock_Config	88	static
+../Core/Src/main.c:288:6:MPU_Config	24	static
+../Core/Src/main.c:319:6:Error_Handler	4	static,ignoring_inline_asm
